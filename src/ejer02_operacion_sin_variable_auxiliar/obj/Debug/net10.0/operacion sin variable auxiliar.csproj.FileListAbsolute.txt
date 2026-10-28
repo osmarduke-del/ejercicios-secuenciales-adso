@@ -1,0 +1,28 @@
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\operacion sin variable auxiliar\bin\Debug\net10.0\operacion sin variable auxiliar.exe
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\operacion sin variable auxiliar\bin\Debug\net10.0\operacion sin variable auxiliar.deps.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\operacion sin variable auxiliar\bin\Debug\net10.0\operacion sin variable auxiliar.runtimeconfig.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\operacion sin variable auxiliar\bin\Debug\net10.0\operacion sin variable auxiliar.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\operacion sin variable auxiliar\bin\Debug\net10.0\operacion sin variable auxiliar.pdb
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\operacion sin variable auxiliar\obj\Debug\net10.0\operacion sin variable auxiliar.GeneratedMSBuildEditorConfig.editorconfig
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\operacion sin variable auxiliar\obj\Debug\net10.0\operacion sin variable auxiliar.AssemblyInfoInputs.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\operacion sin variable auxiliar\obj\Debug\net10.0\operacion sin variable auxiliar.AssemblyInfo.cs
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\operacion sin variable auxiliar\obj\Debug\net10.0\operacion sin variable auxiliar.csproj.CoreCompileInputs.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\operacion sin variable auxiliar\obj\Debug\net10.0\operacion sin variable auxiliar.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\operacion sin variable auxiliar\obj\Debug\net10.0\refint\operacion sin variable auxiliar.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\operacion sin variable auxiliar\obj\Debug\net10.0\operacion sin variable auxiliar.pdb
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\operacion sin variable auxiliar\obj\Debug\net10.0\operacion sin variable auxiliar.genruntimeconfig.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\operacion sin variable auxiliar\obj\Debug\net10.0\ref\operacion sin variable auxiliar.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer02_operacion_sin_variable_auxiliar\bin\Debug\net10.0\operacion sin variable auxiliar.exe
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer02_operacion_sin_variable_auxiliar\bin\Debug\net10.0\operacion sin variable auxiliar.deps.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer02_operacion_sin_variable_auxiliar\bin\Debug\net10.0\operacion sin variable auxiliar.runtimeconfig.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer02_operacion_sin_variable_auxiliar\bin\Debug\net10.0\operacion sin variable auxiliar.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer02_operacion_sin_variable_auxiliar\bin\Debug\net10.0\operacion sin variable auxiliar.pdb
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer02_operacion_sin_variable_auxiliar\obj\Debug\net10.0\operacion sin variable auxiliar.GeneratedMSBuildEditorConfig.editorconfig
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer02_operacion_sin_variable_auxiliar\obj\Debug\net10.0\operacion sin variable auxiliar.AssemblyInfoInputs.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer02_operacion_sin_variable_auxiliar\obj\Debug\net10.0\operacion sin variable auxiliar.AssemblyInfo.cs
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer02_operacion_sin_variable_auxiliar\obj\Debug\net10.0\operacion sin variable auxiliar.csproj.CoreCompileInputs.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer02_operacion_sin_variable_auxiliar\obj\Debug\net10.0\operacion sin variable auxiliar.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer02_operacion_sin_variable_auxiliar\obj\Debug\net10.0\refint\operacion sin variable auxiliar.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer02_operacion_sin_variable_auxiliar\obj\Debug\net10.0\operacion sin variable auxiliar.pdb
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer02_operacion_sin_variable_auxiliar\obj\Debug\net10.0\operacion sin variable auxiliar.genruntimeconfig.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer02_operacion_sin_variable_auxiliar\obj\Debug\net10.0\ref\operacion sin variable auxiliar.dll

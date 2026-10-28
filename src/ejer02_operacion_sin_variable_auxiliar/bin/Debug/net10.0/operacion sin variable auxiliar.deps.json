@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "operacion sin variable auxiliar/1.0.0": {
+        "runtime": {
+          "operacion sin variable auxiliar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operacion sin variable auxiliar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
