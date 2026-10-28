@@ -1,0 +1,15 @@
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\bin\Debug\net10.0\promedio ponderado.exe
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\bin\Debug\net10.0\promedio ponderado.deps.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\bin\Debug\net10.0\promedio ponderado.runtimeconfig.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\bin\Debug\net10.0\promedio ponderado.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\bin\Debug\net10.0\promedio ponderado.pdb
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\obj\Debug\net10.0\promedio ponderado.GeneratedMSBuildEditorConfig.editorconfig
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\obj\Debug\net10.0\promedio ponderado.AssemblyInfoInputs.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\obj\Debug\net10.0\promedio ponderado.AssemblyInfo.cs
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\obj\Debug\net10.0\promedio ponderado.csproj.CoreCompileInputs.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\obj\Debug\net10.0\promedio ponderado.sourcelink.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\obj\Debug\net10.0\promedio ponderado.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\obj\Debug\net10.0\refint\promedio ponderado.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\obj\Debug\net10.0\promedio ponderado.pdb
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\obj\Debug\net10.0\promedio ponderado.genruntimeconfig.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\obj\Debug\net10.0\ref\promedio ponderado.dll
