@@ -1,0 +1,14 @@
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer01_intercamnio_auxiliar\bin\Debug\net10.0\ejer01_intercamnio_auxiliar.exe
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer01_intercamnio_auxiliar\bin\Debug\net10.0\ejer01_intercamnio_auxiliar.deps.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer01_intercamnio_auxiliar\bin\Debug\net10.0\ejer01_intercamnio_auxiliar.runtimeconfig.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer01_intercamnio_auxiliar\bin\Debug\net10.0\ejer01_intercamnio_auxiliar.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer01_intercamnio_auxiliar\bin\Debug\net10.0\ejer01_intercamnio_auxiliar.pdb
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer01_intercamnio_auxiliar\obj\Debug\net10.0\ejer01_intercamnio_auxiliar.GeneratedMSBuildEditorConfig.editorconfig
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer01_intercamnio_auxiliar\obj\Debug\net10.0\ejer01_intercamnio_auxiliar.AssemblyInfoInputs.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer01_intercamnio_auxiliar\obj\Debug\net10.0\ejer01_intercamnio_auxiliar.AssemblyInfo.cs
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer01_intercamnio_auxiliar\obj\Debug\net10.0\ejer01_intercamnio_auxiliar.csproj.CoreCompileInputs.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer01_intercamnio_auxiliar\obj\Debug\net10.0\ejer01_intercamnio_auxiliar.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer01_intercamnio_auxiliar\obj\Debug\net10.0\refint\ejer01_intercamnio_auxiliar.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer01_intercamnio_auxiliar\obj\Debug\net10.0\ejer01_intercamnio_auxiliar.pdb
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer01_intercamnio_auxiliar\obj\Debug\net10.0\ejer01_intercamnio_auxiliar.genruntimeconfig.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer01_intercamnio_auxiliar\obj\Debug\net10.0\ref\ejer01_intercamnio_auxiliar.dll
