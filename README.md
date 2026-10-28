@@ -15,4 +15,8 @@ en un compilador en línea o en Visual Studio.
 | No | Ejercicio | Estado |
 |----|-----------|--------|
 | 01 | Intercambio con variable auxiliar | ✅ |
-| 02 | Intercambio sin variable auxiliar | ⏳ |
+| 02 | Intercambio sin variable auxiliar | ✅ |
+| 03 | promedio ponderado | ✅ |
+| 04 | El Rectángulo que crece | ⏳ |
+| 05 | Circulo: Area y perimetro | ⏳ |
+| 06 | Termómetro triple °C °F  °K | ⏳ |
