@@ -1,0 +1,15 @@
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer13_suma_de_los_digitos_(3cifras)\obj\Debug\net10.0\ejer13_suma_de_los_digitos_(3cifras).GeneratedMSBuildEditorConfig.editorconfig
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer13_suma_de_los_digitos_(3cifras)\obj\Debug\net10.0\ejer13_suma_de_los_digitos_(3cifras).AssemblyInfoInputs.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer13_suma_de_los_digitos_(3cifras)\obj\Debug\net10.0\ejer13_suma_de_los_digitos_(3cifras).AssemblyInfo.cs
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer13_suma_de_los_digitos_(3cifras)\obj\Debug\net10.0\ejer13_suma_de_los_digitos_(3cifras).csproj.CoreCompileInputs.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer13_suma_de_los_digitos_(3cifras)\obj\Debug\net10.0\ejer13_suma_de_los_digitos_(3cifras).sourcelink.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer13_suma_de_los_digitos_(3cifras)\bin\Debug\net10.0\ejer13_suma_de_los_digitos_(3cifras).exe
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer13_suma_de_los_digitos_(3cifras)\bin\Debug\net10.0\ejer13_suma_de_los_digitos_(3cifras).deps.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer13_suma_de_los_digitos_(3cifras)\bin\Debug\net10.0\ejer13_suma_de_los_digitos_(3cifras).runtimeconfig.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer13_suma_de_los_digitos_(3cifras)\bin\Debug\net10.0\ejer13_suma_de_los_digitos_(3cifras).dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer13_suma_de_los_digitos_(3cifras)\bin\Debug\net10.0\ejer13_suma_de_los_digitos_(3cifras).pdb
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer13_suma_de_los_digitos_(3cifras)\obj\Debug\net10.0\ejer13_suma_de_los_digitos_(3cifras).dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer13_suma_de_los_digitos_(3cifras)\obj\Debug\net10.0\refint\ejer13_suma_de_los_digitos_(3cifras).dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer13_suma_de_los_digitos_(3cifras)\obj\Debug\net10.0\ejer13_suma_de_los_digitos_(3cifras).pdb
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer13_suma_de_los_digitos_(3cifras)\obj\Debug\net10.0\ejer13_suma_de_los_digitos_(3cifras).genruntimeconfig.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer13_suma_de_los_digitos_(3cifras)\obj\Debug\net10.0\ref\ejer13_suma_de_los_digitos_(3cifras).dll

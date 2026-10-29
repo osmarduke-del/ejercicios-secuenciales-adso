@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ejer13_suma_de_los_digitos_(3cifras)/1.0.0": {
+        "runtime": {
+          "ejer13_suma_de_los_digitos_(3cifras).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer13_suma_de_los_digitos_(3cifras)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
