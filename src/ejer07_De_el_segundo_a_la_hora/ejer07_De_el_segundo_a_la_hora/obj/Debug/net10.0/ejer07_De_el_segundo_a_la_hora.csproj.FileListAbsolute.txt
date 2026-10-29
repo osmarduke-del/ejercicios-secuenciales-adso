@@ -1,0 +1,16 @@
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\bin\Debug\net10.0\ejer07_De_el_segundo_a_la_hora.exe
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\bin\Debug\net10.0\ejer07_De_el_segundo_a_la_hora.deps.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\bin\Debug\net10.0\ejer07_De_el_segundo_a_la_hora.runtimeconfig.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\bin\Debug\net10.0\ejer07_De_el_segundo_a_la_hora.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\bin\Debug\net10.0\ejer07_De_el_segundo_a_la_hora.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\obj\Debug\net10.0\ejer07_De_el_segundo_a_la_hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\obj\Debug\net10.0\ejer07_De_el_segundo_a_la_hora.AssemblyInfoInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\obj\Debug\net10.0\ejer07_De_el_segundo_a_la_hora.AssemblyInfo.cs
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\obj\Debug\net10.0\ejer07_De_el_segundo_a_la_hora.csproj.CoreCompileInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\obj\Debug\net10.0\ejer07_De_el_segundo_a_la_hora.sourcelink.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\obj\Debug\net10.0\ejer07_De_el_segundo_a_la_hora.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\obj\Debug\net10.0\refint\ejer07_De_el_segundo_a_la_hora.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\obj\Debug\net10.0\ejer07_De_el_segundo_a_la_hora.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\obj\Debug\net10.0\ejer07_De_el_segundo_a_la_hora.genruntimeconfig.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\obj\Debug\net10.0\ref\ejer07_De_el_segundo_a_la_hora.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer07_De_el_segundo_a_la_hora\ejer07_De_el_segundo_a_la_hora\obj\Debug\net10.0\ejer07_D.D0C22809.Up2Date

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ejer07_De_el_segundo_a_la_hora/1.0.0": {
+        "runtime": {
+          "ejer07_De_el_segundo_a_la_hora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer07_De_el_segundo_a_la_hora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
