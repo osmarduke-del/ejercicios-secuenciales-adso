@@ -1,0 +1,16 @@
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\bin\Debug\net10.0\ejer10_Hipotenusa_con_Pitagoras.exe
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\bin\Debug\net10.0\ejer10_Hipotenusa_con_Pitagoras.deps.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\bin\Debug\net10.0\ejer10_Hipotenusa_con_Pitagoras.runtimeconfig.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\bin\Debug\net10.0\ejer10_Hipotenusa_con_Pitagoras.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\bin\Debug\net10.0\ejer10_Hipotenusa_con_Pitagoras.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\obj\Debug\net10.0\ejer10_Hipotenusa_con_Pitagoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\obj\Debug\net10.0\ejer10_Hipotenusa_con_Pitagoras.AssemblyInfoInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\obj\Debug\net10.0\ejer10_Hipotenusa_con_Pitagoras.AssemblyInfo.cs
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\obj\Debug\net10.0\ejer10_Hipotenusa_con_Pitagoras.csproj.CoreCompileInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\obj\Debug\net10.0\ejer10_Hipotenusa_con_Pitagoras.sourcelink.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\obj\Debug\net10.0\ejer10_Hipotenusa_con_Pitagoras.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\obj\Debug\net10.0\refint\ejer10_Hipotenusa_con_Pitagoras.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\obj\Debug\net10.0\ejer10_Hipotenusa_con_Pitagoras.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\obj\Debug\net10.0\ejer10_Hipotenusa_con_Pitagoras.genruntimeconfig.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\obj\Debug\net10.0\ref\ejer10_Hipotenusa_con_Pitagoras.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer10_Hipotenusa_con_Pitagoras\ejer10_Hipotenusa_con_Pitagoras\obj\Debug\net10.0\ejer10_H.01B56D1C.Up2Date
