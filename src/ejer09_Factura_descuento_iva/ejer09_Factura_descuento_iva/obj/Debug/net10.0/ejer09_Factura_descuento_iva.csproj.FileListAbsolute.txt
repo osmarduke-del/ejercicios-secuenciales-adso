@@ -1,0 +1,16 @@
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\bin\Debug\net10.0\ejer09_Factura_descuento_iva.exe
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\bin\Debug\net10.0\ejer09_Factura_descuento_iva.deps.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\bin\Debug\net10.0\ejer09_Factura_descuento_iva.runtimeconfig.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\bin\Debug\net10.0\ejer09_Factura_descuento_iva.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\bin\Debug\net10.0\ejer09_Factura_descuento_iva.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\obj\Debug\net10.0\ejer09_Factura_descuento_iva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\obj\Debug\net10.0\ejer09_Factura_descuento_iva.AssemblyInfoInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\obj\Debug\net10.0\ejer09_Factura_descuento_iva.AssemblyInfo.cs
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\obj\Debug\net10.0\ejer09_Factura_descuento_iva.csproj.CoreCompileInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\obj\Debug\net10.0\ejer09_Factura_descuento_iva.sourcelink.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\obj\Debug\net10.0\ejer09_Factura_descuento_iva.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\obj\Debug\net10.0\refint\ejer09_Factura_descuento_iva.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\obj\Debug\net10.0\ejer09_Factura_descuento_iva.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\obj\Debug\net10.0\ejer09_Factura_descuento_iva.genruntimeconfig.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\obj\Debug\net10.0\ref\ejer09_Factura_descuento_iva.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer09_Factura_descuento_iva\ejer09_Factura_descuento_iva\obj\Debug\net10.0\ejer09_F.EBF6072C.Up2Date
