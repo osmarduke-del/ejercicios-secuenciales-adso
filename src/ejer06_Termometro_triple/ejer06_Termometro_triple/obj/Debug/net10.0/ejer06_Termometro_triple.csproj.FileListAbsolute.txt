@@ -1,0 +1,16 @@
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\bin\Debug\net10.0\ejer06_Termometro_triple.exe
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\bin\Debug\net10.0\ejer06_Termometro_triple.deps.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\bin\Debug\net10.0\ejer06_Termometro_triple.runtimeconfig.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\bin\Debug\net10.0\ejer06_Termometro_triple.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\bin\Debug\net10.0\ejer06_Termometro_triple.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\obj\Debug\net10.0\ejer06_Termometro_triple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\obj\Debug\net10.0\ejer06_Termometro_triple.AssemblyInfoInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\obj\Debug\net10.0\ejer06_Termometro_triple.AssemblyInfo.cs
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\obj\Debug\net10.0\ejer06_Termometro_triple.csproj.CoreCompileInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\obj\Debug\net10.0\ejer06_Termometro_triple.sourcelink.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\obj\Debug\net10.0\ejer06_Termometro_triple.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\obj\Debug\net10.0\refint\ejer06_Termometro_triple.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\obj\Debug\net10.0\ejer06_Termometro_triple.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\obj\Debug\net10.0\ejer06_Termometro_triple.genruntimeconfig.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\obj\Debug\net10.0\ref\ejer06_Termometro_triple.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer06_Termometro_triple\ejer06_Termometro_triple\obj\Debug\net10.0\ejer06_T.CB32E581.Up2Date
