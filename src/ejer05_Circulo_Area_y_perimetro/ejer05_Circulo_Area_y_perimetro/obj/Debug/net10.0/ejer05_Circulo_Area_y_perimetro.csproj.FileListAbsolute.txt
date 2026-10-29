@@ -1,0 +1,16 @@
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\obj\Debug\net10.0\ejer05_Circulo_Area_y_perimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\obj\Debug\net10.0\ejer05_Circulo_Area_y_perimetro.AssemblyInfoInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\obj\Debug\net10.0\ejer05_Circulo_Area_y_perimetro.AssemblyInfo.cs
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\obj\Debug\net10.0\ejer05_Circulo_Area_y_perimetro.csproj.CoreCompileInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\obj\Debug\net10.0\ejer05_Circulo_Area_y_perimetro.sourcelink.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\bin\Debug\net10.0\ejer05_Circulo_Area_y_perimetro.exe
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\bin\Debug\net10.0\ejer05_Circulo_Area_y_perimetro.deps.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\bin\Debug\net10.0\ejer05_Circulo_Area_y_perimetro.runtimeconfig.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\bin\Debug\net10.0\ejer05_Circulo_Area_y_perimetro.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\bin\Debug\net10.0\ejer05_Circulo_Area_y_perimetro.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\obj\Debug\net10.0\ejer05_Circulo_Area_y_perimetro.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\obj\Debug\net10.0\refint\ejer05_Circulo_Area_y_perimetro.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\obj\Debug\net10.0\ejer05_Circulo_Area_y_perimetro.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\obj\Debug\net10.0\ejer05_Circulo_Area_y_perimetro.genruntimeconfig.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\obj\Debug\net10.0\ref\ejer05_Circulo_Area_y_perimetro.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer05_Circulo_Area_y_perimetro\ejer05_Circulo_Area_y_perimetro\obj\Debug\net10.0\ejer05_C.32E2B148.Up2Date
