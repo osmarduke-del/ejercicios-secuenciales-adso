@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\COMPETENCIA_ALGORITMOS\\EJERCICIOS_SECUENCIALES\\src\\promedio ponderado\\promedio ponderado.csproj": {}
+    "C:\\Algoritmos ADSO\\ejercicios-secuenciales-adso\\src\\ejer03_promedio_ponderado\\promedio ponderado.csproj": {}
   },
   "projects": {
-    "D:\\COMPETENCIA_ALGORITMOS\\EJERCICIOS_SECUENCIALES\\src\\promedio ponderado\\promedio ponderado.csproj": {
+    "C:\\Algoritmos ADSO\\ejercicios-secuenciales-adso\\src\\ejer03_promedio_ponderado\\promedio ponderado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\COMPETENCIA_ALGORITMOS\\EJERCICIOS_SECUENCIALES\\src\\promedio ponderado\\promedio ponderado.csproj",
+        "projectUniqueName": "C:\\Algoritmos ADSO\\ejercicios-secuenciales-adso\\src\\ejer03_promedio_ponderado\\promedio ponderado.csproj",
         "projectName": "promedio ponderado",
-        "projectPath": "D:\\COMPETENCIA_ALGORITMOS\\EJERCICIOS_SECUENCIALES\\src\\promedio ponderado\\promedio ponderado.csproj",
-        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
-        "outputPath": "D:\\COMPETENCIA_ALGORITMOS\\EJERCICIOS_SECUENCIALES\\src\\promedio ponderado\\obj\\",
+        "projectPath": "C:\\Algoritmos ADSO\\ejercicios-secuenciales-adso\\src\\ejer03_promedio_ponderado\\promedio ponderado.csproj",
+        "packagesPath": "C:\\Users\\-\\.nuget\\packages\\",
+        "outputPath": "C:\\Algoritmos ADSO\\ejercicios-secuenciales-adso\\src\\ejer03_promedio_ponderado\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\-\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

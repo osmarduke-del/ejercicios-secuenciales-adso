@@ -1,0 +1,16 @@
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\bin\Debug\net10.0\ejer04_El_rectangulo_que_crece.exe
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\bin\Debug\net10.0\ejer04_El_rectangulo_que_crece.deps.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\bin\Debug\net10.0\ejer04_El_rectangulo_que_crece.runtimeconfig.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\bin\Debug\net10.0\ejer04_El_rectangulo_que_crece.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\bin\Debug\net10.0\ejer04_El_rectangulo_que_crece.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\obj\Debug\net10.0\ejer04_El_rectangulo_que_crece.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\obj\Debug\net10.0\ejer04_El_rectangulo_que_crece.AssemblyInfoInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\obj\Debug\net10.0\ejer04_El_rectangulo_que_crece.AssemblyInfo.cs
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\obj\Debug\net10.0\ejer04_El_rectangulo_que_crece.csproj.CoreCompileInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\obj\Debug\net10.0\ejer04_El_rectangulo_que_crece.sourcelink.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\obj\Debug\net10.0\ejer04_El_rectangulo_que_crece.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\obj\Debug\net10.0\refint\ejer04_El_rectangulo_que_crece.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\obj\Debug\net10.0\ejer04_El_rectangulo_que_crece.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\obj\Debug\net10.0\ejer04_El_rectangulo_que_crece.genruntimeconfig.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\obj\Debug\net10.0\ref\ejer04_El_rectangulo_que_crece.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer04_El_rectangulo_que_crece\ejer04_El_rectangulo_que_crece\obj\Debug\net10.0\ejer04_E.3EA3F1E7.Up2Date

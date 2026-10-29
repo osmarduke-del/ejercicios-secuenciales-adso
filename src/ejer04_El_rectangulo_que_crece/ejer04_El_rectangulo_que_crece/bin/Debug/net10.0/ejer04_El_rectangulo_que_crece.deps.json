@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ejer04_El_rectangulo_que_crece/1.0.0": {
+        "runtime": {
+          "ejer04_El_rectangulo_que_crece.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer04_El_rectangulo_que_crece/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

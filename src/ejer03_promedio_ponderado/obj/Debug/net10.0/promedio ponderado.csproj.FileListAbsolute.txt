@@ -13,3 +13,19 @@ D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\obj\Deb
 D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\obj\Debug\net10.0\promedio ponderado.pdb
 D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\obj\Debug\net10.0\promedio ponderado.genruntimeconfig.cache
 D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\promedio ponderado\obj\Debug\net10.0\ref\promedio ponderado.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\bin\Debug\net10.0\promedio ponderado.exe
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\bin\Debug\net10.0\promedio ponderado.deps.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\bin\Debug\net10.0\promedio ponderado.runtimeconfig.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\bin\Debug\net10.0\promedio ponderado.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\bin\Debug\net10.0\promedio ponderado.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\obj\Debug\net10.0\promedio ponderado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\obj\Debug\net10.0\promedio ponderado.AssemblyInfoInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\obj\Debug\net10.0\promedio ponderado.AssemblyInfo.cs
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\obj\Debug\net10.0\promedio ponderado.csproj.CoreCompileInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\obj\Debug\net10.0\promedio ponderado.sourcelink.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\obj\Debug\net10.0\promedio ponderado.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\obj\Debug\net10.0\refint\promedio ponderado.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\obj\Debug\net10.0\promedio ponderado.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\obj\Debug\net10.0\promedio ponderado.genruntimeconfig.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\obj\Debug\net10.0\ref\promedio ponderado.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer03_promedio_ponderado\obj\Debug\net10.0\promedio.F7551D33.Up2Date

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\COMPETENCIA_ALGORITMOS\\EJERCICIOS_SECUENCIALES\\src\\promedio ponderado\\",
+  "WorkspaceRootPath": "C:\\Algoritmos ADSO\\ejercicios-secuenciales-adso\\src\\ejer03_promedio_ponderado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4DC59E4-5013-43D1-A291-056426E0EFDB}|promedio ponderado.csproj|d:\\competencia_algoritmos\\ejercicios_secuenciales\\src\\promedio ponderado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4DC59E4-5013-43D1-A291-056426E0EFDB}|promedio ponderado.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF742EDA-4B73-3124-8F7F-555C45AF6EAA}|promedio ponderado.csproj|c:\\algoritmos adso\\ejercicios-secuenciales-adso\\src\\ejer03_promedio_ponderado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF742EDA-4B73-3124-8F7F-555C45AF6EAA}|promedio ponderado.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,42 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\COMPETENCIA_ALGORITMOS\\EJERCICIOS_SECUENCIALES\\src\\promedio ponderado\\Program.cs",
+              "DocumentMoniker": "C:\\Algoritmos ADSO\\ejercicios-secuenciales-adso\\src\\ejer03_promedio_ponderado\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\COMPETENCIA_ALGORITMOS\\EJERCICIOS_SECUENCIALES\\src\\promedio ponderado\\Program.cs",
+              "ToolTip": "C:\\Algoritmos ADSO\\ejercicios-secuenciales-adso\\src\\ejer03_promedio_ponderado\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-28T21:17:32.259Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }

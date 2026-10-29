@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("promedio ponderado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c43b4a4afba8372fd8795d719c1f15038afc561")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52b8ec5d39ccc690245ff52c2fcbb7020fe01e2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("promedio ponderado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("promedio ponderado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
