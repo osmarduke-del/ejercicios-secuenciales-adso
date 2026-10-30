@@ -1,0 +1,15 @@
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejercicio condicional\bin\Debug\net10.0\ejercicio condicional.exe
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejercicio condicional\bin\Debug\net10.0\ejercicio condicional.deps.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejercicio condicional\bin\Debug\net10.0\ejercicio condicional.runtimeconfig.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejercicio condicional\bin\Debug\net10.0\ejercicio condicional.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejercicio condicional\bin\Debug\net10.0\ejercicio condicional.pdb
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejercicio condicional\obj\Debug\net10.0\ejercicio condicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejercicio condicional\obj\Debug\net10.0\ejercicio condicional.AssemblyInfoInputs.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejercicio condicional\obj\Debug\net10.0\ejercicio condicional.AssemblyInfo.cs
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejercicio condicional\obj\Debug\net10.0\ejercicio condicional.csproj.CoreCompileInputs.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejercicio condicional\obj\Debug\net10.0\ejercicio condicional.sourcelink.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejercicio condicional\obj\Debug\net10.0\ejercicio condicional.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejercicio condicional\obj\Debug\net10.0\refint\ejercicio condicional.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejercicio condicional\obj\Debug\net10.0\ejercicio condicional.pdb
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejercicio condicional\obj\Debug\net10.0\ejercicio condicional.genruntimeconfig.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejercicio condicional\obj\Debug\net10.0\ref\ejercicio condicional.dll

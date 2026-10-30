@@ -1,0 +1,15 @@
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer20_interes_compuesto\bin\Debug\net10.0\ejer20_interes_compuesto.exe
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer20_interes_compuesto\bin\Debug\net10.0\ejer20_interes_compuesto.deps.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer20_interes_compuesto\bin\Debug\net10.0\ejer20_interes_compuesto.runtimeconfig.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer20_interes_compuesto\bin\Debug\net10.0\ejer20_interes_compuesto.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer20_interes_compuesto\bin\Debug\net10.0\ejer20_interes_compuesto.pdb
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer20_interes_compuesto\obj\Debug\net10.0\ejer20_interes_compuesto.GeneratedMSBuildEditorConfig.editorconfig
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer20_interes_compuesto\obj\Debug\net10.0\ejer20_interes_compuesto.AssemblyInfoInputs.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer20_interes_compuesto\obj\Debug\net10.0\ejer20_interes_compuesto.AssemblyInfo.cs
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer20_interes_compuesto\obj\Debug\net10.0\ejer20_interes_compuesto.csproj.CoreCompileInputs.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer20_interes_compuesto\obj\Debug\net10.0\ejer20_interes_compuesto.sourcelink.json
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer20_interes_compuesto\obj\Debug\net10.0\ejer20_interes_compuesto.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer20_interes_compuesto\obj\Debug\net10.0\refint\ejer20_interes_compuesto.dll
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer20_interes_compuesto\obj\Debug\net10.0\ejer20_interes_compuesto.pdb
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer20_interes_compuesto\obj\Debug\net10.0\ejer20_interes_compuesto.genruntimeconfig.cache
+D:\COMPETENCIA_ALGORITMOS\EJERCICIOS_SECUENCIALES\src\ejer20_interes_compuesto\obj\Debug\net10.0\ref\ejer20_interes_compuesto.dll
