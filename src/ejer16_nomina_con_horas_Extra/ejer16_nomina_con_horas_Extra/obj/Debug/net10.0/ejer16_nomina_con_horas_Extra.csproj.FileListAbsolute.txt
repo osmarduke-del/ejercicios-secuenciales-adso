@@ -1,0 +1,16 @@
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\bin\Debug\net10.0\ejer16_nomina_con_horas_Extra.exe
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\bin\Debug\net10.0\ejer16_nomina_con_horas_Extra.deps.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\bin\Debug\net10.0\ejer16_nomina_con_horas_Extra.runtimeconfig.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\bin\Debug\net10.0\ejer16_nomina_con_horas_Extra.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\bin\Debug\net10.0\ejer16_nomina_con_horas_Extra.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\obj\Debug\net10.0\ejer16_nomina_con_horas_Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\obj\Debug\net10.0\ejer16_nomina_con_horas_Extra.AssemblyInfoInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\obj\Debug\net10.0\ejer16_nomina_con_horas_Extra.AssemblyInfo.cs
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\obj\Debug\net10.0\ejer16_nomina_con_horas_Extra.csproj.CoreCompileInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\obj\Debug\net10.0\ejer16_nomina_con_horas_Extra.sourcelink.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\obj\Debug\net10.0\ejer16_nomina_con_horas_Extra.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\obj\Debug\net10.0\refint\ejer16_nomina_con_horas_Extra.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\obj\Debug\net10.0\ejer16_nomina_con_horas_Extra.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\obj\Debug\net10.0\ejer16_nomina_con_horas_Extra.genruntimeconfig.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\obj\Debug\net10.0\ref\ejer16_nomina_con_horas_Extra.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer16_nomina_con_horas_Extra\ejer16_nomina_con_horas_Extra\obj\Debug\net10.0\ejer16_n.BB8361BF.Up2Date

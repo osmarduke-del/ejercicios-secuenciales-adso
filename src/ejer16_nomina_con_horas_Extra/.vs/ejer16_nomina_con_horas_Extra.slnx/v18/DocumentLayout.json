@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Algoritmos ADSO\\ejercicios-secuenciales-adso\\src\\ejer16_nomina_con_horas_Extra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C68DAAF-3C28-45E1-A05C-FBD2C3B53DF8}|ejer16_nomina_con_horas_Extra\\ejer16_nomina_con_horas_Extra.csproj|c:\\algoritmos adso\\ejercicios-secuenciales-adso\\src\\ejer16_nomina_con_horas_extra\\ejer16_nomina_con_horas_extra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C68DAAF-3C28-45E1-A05C-FBD2C3B53DF8}|ejer16_nomina_con_horas_Extra\\ejer16_nomina_con_horas_Extra.csproj|solutionrelative:ejer16_nomina_con_horas_extra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Algoritmos ADSO\\ejercicios-secuenciales-adso\\src\\ejer16_nomina_con_horas_Extra\\ejer16_nomina_con_horas_Extra\\Program.cs",
+              "RelativeDocumentMoniker": "ejer16_nomina_con_horas_Extra\\Program.cs",
+              "ToolTip": "C:\\Algoritmos ADSO\\ejercicios-secuenciales-adso\\src\\ejer16_nomina_con_horas_Extra\\ejer16_nomina_con_horas_Extra\\Program.cs",
+              "RelativeToolTip": "ejer16_nomina_con_horas_Extra\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T06:20:31.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
