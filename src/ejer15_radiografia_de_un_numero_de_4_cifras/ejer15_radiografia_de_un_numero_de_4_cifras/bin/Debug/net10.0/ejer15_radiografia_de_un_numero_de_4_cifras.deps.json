@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ejer15_radiografia_de_un_numero_de_4_cifras/1.0.0": {
+        "runtime": {
+          "ejer15_radiografia_de_un_numero_de_4_cifras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer15_radiografia_de_un_numero_de_4_cifras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
