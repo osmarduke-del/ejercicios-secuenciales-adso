@@ -1,0 +1,16 @@
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\bin\Debug\net10.0\ejer18_pintura_y_latas.exe
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\bin\Debug\net10.0\ejer18_pintura_y_latas.deps.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\bin\Debug\net10.0\ejer18_pintura_y_latas.runtimeconfig.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\bin\Debug\net10.0\ejer18_pintura_y_latas.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\bin\Debug\net10.0\ejer18_pintura_y_latas.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\obj\Debug\net10.0\ejer18_pintura_y_latas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\obj\Debug\net10.0\ejer18_pintura_y_latas.AssemblyInfoInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\obj\Debug\net10.0\ejer18_pintura_y_latas.AssemblyInfo.cs
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\obj\Debug\net10.0\ejer18_pintura_y_latas.csproj.CoreCompileInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\obj\Debug\net10.0\ejer18_pintura_y_latas.sourcelink.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\obj\Debug\net10.0\ejer18_pintura_y_latas.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\obj\Debug\net10.0\refint\ejer18_pintura_y_latas.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\obj\Debug\net10.0\ejer18_pintura_y_latas.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\obj\Debug\net10.0\ejer18_pintura_y_latas.genruntimeconfig.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\obj\Debug\net10.0\ref\ejer18_pintura_y_latas.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer18_pintura_y_latas\ejer18_pintura_y_latas\obj\Debug\net10.0\ejer18_p.191CDA0F.Up2Date
