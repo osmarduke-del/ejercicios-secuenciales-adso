@@ -1,0 +1,16 @@
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\bin\Debug\net10.0\ejer17_negocio_o_perdida.exe
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\bin\Debug\net10.0\ejer17_negocio_o_perdida.deps.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\bin\Debug\net10.0\ejer17_negocio_o_perdida.runtimeconfig.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\bin\Debug\net10.0\ejer17_negocio_o_perdida.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\bin\Debug\net10.0\ejer17_negocio_o_perdida.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\obj\Debug\net10.0\ejer17_negocio_o_perdida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\obj\Debug\net10.0\ejer17_negocio_o_perdida.AssemblyInfoInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\obj\Debug\net10.0\ejer17_negocio_o_perdida.AssemblyInfo.cs
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\obj\Debug\net10.0\ejer17_negocio_o_perdida.csproj.CoreCompileInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\obj\Debug\net10.0\ejer17_negocio_o_perdida.sourcelink.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\obj\Debug\net10.0\ejer17_negocio_o_perdida.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\obj\Debug\net10.0\refint\ejer17_negocio_o_perdida.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\obj\Debug\net10.0\ejer17_negocio_o_perdida.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\obj\Debug\net10.0\ejer17_negocio_o_perdida.genruntimeconfig.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\obj\Debug\net10.0\ref\ejer17_negocio_o_perdida.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer17_negocio_o_perdida\ejer17_negocio_o_perdida\obj\Debug\net10.0\ejer17_n.D5477C89.Up2Date
