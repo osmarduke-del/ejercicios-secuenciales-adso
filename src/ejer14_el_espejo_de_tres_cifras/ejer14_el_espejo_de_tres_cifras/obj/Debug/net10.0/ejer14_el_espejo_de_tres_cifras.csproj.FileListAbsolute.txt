@@ -1,0 +1,16 @@
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\bin\Debug\net10.0\ejer14_el_espejo_de_tres_cifras.exe
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\bin\Debug\net10.0\ejer14_el_espejo_de_tres_cifras.deps.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\bin\Debug\net10.0\ejer14_el_espejo_de_tres_cifras.runtimeconfig.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\bin\Debug\net10.0\ejer14_el_espejo_de_tres_cifras.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\bin\Debug\net10.0\ejer14_el_espejo_de_tres_cifras.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\obj\Debug\net10.0\ejer14_el_espejo_de_tres_cifras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\obj\Debug\net10.0\ejer14_el_espejo_de_tres_cifras.AssemblyInfoInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\obj\Debug\net10.0\ejer14_el_espejo_de_tres_cifras.AssemblyInfo.cs
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\obj\Debug\net10.0\ejer14_el_espejo_de_tres_cifras.csproj.CoreCompileInputs.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\obj\Debug\net10.0\ejer14_el_espejo_de_tres_cifras.sourcelink.json
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\obj\Debug\net10.0\ejer14_el_espejo_de_tres_cifras.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\obj\Debug\net10.0\refint\ejer14_el_espejo_de_tres_cifras.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\obj\Debug\net10.0\ejer14_el_espejo_de_tres_cifras.pdb
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\obj\Debug\net10.0\ejer14_el_espejo_de_tres_cifras.genruntimeconfig.cache
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\obj\Debug\net10.0\ref\ejer14_el_espejo_de_tres_cifras.dll
+C:\Algoritmos ADSO\ejercicios-secuenciales-adso\src\ejer14_el_espejo_de_tres_cifras\ejer14_el_espejo_de_tres_cifras\obj\Debug\net10.0\ejer14_e.1BBD1841.Up2Date
